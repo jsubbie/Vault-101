@@ -14,5 +14,5 @@ Includes (but not limited to...):
 - Pandas (df manipulation)
 - API guides and webscraping 
 - sql and sqlalchemy 
-- Javascript 
+- Javascript (updating...)
 
